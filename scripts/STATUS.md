@@ -12,3 +12,6 @@ Do not Interceptor.detachAll() while driving.
 - PREP-VINYL-HUD.md — wrap + HUD color research, not built yet
 
 Grok GitHub connector is read-only (403 on push). This folder is updated by a write-capable connector or git push.
+
+---
+Last verified (Perplexity read/write check): 2026-08-31 18:05 EDT
